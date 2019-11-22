@@ -1,2 +1,2 @@
 # OpenshiftFirstPOC
-Openshift First POS
+Openshift First POC
